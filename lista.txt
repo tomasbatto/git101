@@ -1,4 +1,4 @@
--CURSO GIT- 
+﻿-CURSO GIT- 
 ~TERCERA CLASE~
 Nombre Apellido (MAIL)(Github)
 Tomas Fernandez Battolla (tomas.fernandez@ing.austral.edu.ar)(tomasbatto)
@@ -8,3 +8,4 @@ Tomas Forman (tomas.forman@ing.austral.edu.ar)(tomifor)
 Matias Cicilia (matias.cicilia@ing.austral.edu.ar)(MatiasCicilia)
 Nicolás Gargano (nicolas.gargano@ing.austral.edu.ar)(Nick-G-)
 Ignacio Berdiñas (ignacio.berdinas@ing.austral.edu.ar)(NachoBerdinas)
+Maximiliano Lagorio (maximiliano.lagorio@ing.austral.edu.ar)(maxilago)
