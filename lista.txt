@@ -2,7 +2,9 @@
 ~TERCERA CLASE~
 Nombre Apellido (MAIL)(Github)
 Tomas Fernandez Battolla (tomas.fernandez@ing.austral.edu.ar)(tomasbatto)
+Patricio Gaston Madeo (patricio.madeo@ing.austral.edu.ar)(PatoMa) 
 Pablo Mercury (pablo.mercury@ing.austral.edu.ar)
+Tomas Forman (tomas.forman@ing.austral.edu.ar)(tomifor)
 Matias Cicilia (matias.cicilia@ing.austral.edu.ar)(MatiasCicilia)
 Matias Boracchia (matias.boracchia@ing.austral.edu.ar)
 Nicolás Gargano (nicolas.gargano@ing.austral.edu.ar)(Nick-G-)
