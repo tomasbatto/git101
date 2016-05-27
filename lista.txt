@@ -2,3 +2,4 @@
 ~TERCERA CLASE~
 Nombre Apellido (MAIL)(Github)
 Tomas Fernandez Battolla (tomas.fernandez@ing.austral.edu.ar)(tomasbatto)
+Pablo Mercury (pablo.mercury@ing.austral.edu.ar)
