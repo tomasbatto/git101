@@ -1,0 +1,5 @@
+-CURSO GIT- 
+~TERCERA CLASE~
+Nombre Apellido (MAIL)(Github)
+Tomas Fernandez Battolla (tomas.fernandez@ing.austral.edu.ar)(tomasbatto)
+Matias Cicilia (matias.cicilia@ing.austral.edu.ar)(MatiasCicilia)
